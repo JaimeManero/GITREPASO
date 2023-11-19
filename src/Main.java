@@ -7,5 +7,6 @@ public class Main {
         System.out.println("xd");
         System.out.println("LENGOKOAK PA LA CHAMPIONS");
         System.out.println("taluego");
+        System.out.println("adeu");
     }
 }
